@@ -1,9 +1,0 @@
-{
-  "name": "serviciosautomaticosgpt",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Landing page de Servicios Automáticos GPT",
-  "scripts": {
-    "build": "echo no-build"
-  }
-}
